@@ -5,7 +5,7 @@
 
 <BODY bgcolor="Yellow"> 
 
-   <A href="Index.HTML"> <IMG src="atras.gif" align="left"  width=10% heigth=10%></A>
+   <A href="index.HTML"> <IMG src="atras.gif" align="left"  width=10% heigth=10%></A>
 
    <IMG src="chico.jpg" align="right" width=35% heigth"45%"> 
 
